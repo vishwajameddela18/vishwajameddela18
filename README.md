@@ -5,7 +5,7 @@
 ### 💼 About Me
 
 - 🎓 Recent Data Science graduate from Pace University — Class of 2025
-- 🌱 Currently preparing for Microsoft Azure Data Science Associate certification 
+- 🌱 Currently learning building GenAI applications on Amazon Bedrock
 - 🚀 Next stop: Building intelligent solutions that make everyday life smarter
 - 🎉 Fun fact: Collecting souvenirs from every place I visit :)
 - 💬Ask me anything about Data, AI, or which series to binge next.
