@@ -5,8 +5,7 @@
 ### 💼 About Me
 
 - 🎓 Recent Data Science graduate from Pace University — Class of 2025
-- 🌱 Currently learning building GenAI applications on Amazon Bedrock
-- 🚀 Next stop: Building intelligent solutions that make everyday life smarter
+- 🌱 Currently building GenAI applications on Amazon Bedrock
 - 🎉 Fun fact: Collecting souvenirs from every place I visit :)
 - 💬Ask me anything about Data, AI, or which series to binge next.
 
@@ -59,7 +58,7 @@
   <a href="mailto:vishwajameddela@example.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vishwajameddela"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/vishwajameddela18"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1qyGS6kIXcUnjo6LbMDBppbSrgyxDhnei/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge"/></a>
+  <a href=""><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-blueviolet?style=for-the-badge"/></a>
 </p>
 
 ---
